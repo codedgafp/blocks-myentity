@@ -1,0 +1,22 @@
+.block_myentity #entity-logo {
+    text-align: center;
+}
+
+.block_myentity #entity-logo img {
+    width: 310px;
+    height: auto;
+    margin-bottom: 17px;
+}
+
+.block_myentity #presentationcourse {
+    margin-bottom: 11px;
+}
+
+.block_myentity .fa-arrow-right {
+    margin-left: 6px;
+}
+
+.block_myentity #presentationcourse a,
+.block_myentity #contactcourse a {
+    font-size: 14px;
+}
